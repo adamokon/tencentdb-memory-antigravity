@@ -1,0 +1,4 @@
+{
+  "name": "tencentdb-memory-antigravity",
+  "description": "Direct TencentDB Memory Core recall and capture through Antigravity hooks and MCP."
+}

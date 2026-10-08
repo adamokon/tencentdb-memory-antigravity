@@ -1,0 +1,24 @@
+{
+  "name": "tencentdb-memory-antigravity",
+  "version": "0.1.2",
+  "private": true,
+  "type": "module",
+  "description": "Native Antigravity hooks and MCP adapter for TencentDB Agent Memory",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "doctor": "node scripts/doctor.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamokon/tencentdb-memory-antigravity.git"
+  },
+  "homepage": "https://github.com/adamokon/tencentdb-memory-antigravity#readme",
+  "bugs": {
+    "url": "https://github.com/adamokon/tencentdb-memory-antigravity/issues"
+  },
+  "author": "Adam Okon (https://github.com/adamokon)"
+}

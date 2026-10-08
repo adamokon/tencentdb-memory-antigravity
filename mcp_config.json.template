@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "m": {
+      "command": "node",
+      "args": [
+        "__MCP_SERVER_PATH__"
+      ]
+    }
+  }
+}

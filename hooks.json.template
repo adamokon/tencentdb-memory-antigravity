@@ -1,0 +1,18 @@
+{
+  "tencentdb-memory": {
+    "PreInvocation": [
+      {
+        "type": "command",
+        "command": "__HOOK_COMMAND__ pre-invocation",
+        "timeout": 5
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "__HOOK_COMMAND__ stop",
+        "timeout": 120
+      }
+    ]
+  }
+}

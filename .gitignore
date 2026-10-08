@@ -1,0 +1,13 @@
+config.env
+.env
+.env.*
+!.env.example
+.state/
+*.log
+*.zip
+hooks.json
+mcp_config.json
+node_modules/
+.DS_Store
+TASK.txt
+RESULT.txt
